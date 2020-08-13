@@ -1,3 +1,13 @@
+.heart{
+width: 75%;
+}
+h2{
+   font-size: 70px;
+    color: aliceblue;
+    font-family: Brush Script MT;
+}
+
+
 canvas {
     position: absolute;
     left:0;
